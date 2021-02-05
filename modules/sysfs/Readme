@@ -1,1 +1,3 @@
 Example for sysfs
+
+Sysfs is virtual filesystem exported by the kernel. It is similar to /proc.
